@@ -1,2 +1,2 @@
-# Project-26
-recipe
+# Masterchef Junior My Recipes
+Recipes book of MasterChef Junior.
